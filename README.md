@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat</h1>
-<h2 align="center">Currently I'm building Solace an AI-Powered mantal wellness platform. Would love your contribution. </h2>
+<h2 align="center">Currently I'm building Solace/Ujiyat an AI-Powered mantal wellness platform. Would love your contribution. </h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshat12503&label=Profile%20views&color=0e75b6&style=flat" alt="akshat12503" /> </p>
 
