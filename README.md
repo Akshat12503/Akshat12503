@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **GEN AI**
 
-- 👯 I’m looking to collaborate on **Deep Learning Projects**
+- 👯 I’m looking to collaborate on **Full Stack AI Projects**
 
 - 📫 How to reach me **akshatkutariyar@gmail.com**
 
